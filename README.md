@@ -23,9 +23,8 @@
   </a>
 
 
- <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,javascript,firebase,next,redux" />
-   
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,bootstrap,tailwind,react,vite,redux,next,github,figma,mui,git,firebase,vscode" />
 </div>
 
 
